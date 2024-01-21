@@ -1,0 +1,5 @@
+if($r['status']==1){
+					echo "Inactive";
+				}else{
+				    echo "Active";
+				}

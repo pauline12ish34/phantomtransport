@@ -1,0 +1,41 @@
+#login-page{
+    /* margin-top: 30em; */
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: black 0px 0px 3px;
+   
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height:100%;
+    margin-top: 2em;
+}
+input{
+   
+    margin-bottom: 20px;
+}
+#not-member{
+    text-align: right;
+    margin-top: -10px;
+}
+
+#submitButton{
+    /* width:55em; */
+    margin-top: 55em;
+    border:2px solid #253B33;
+    border-radius: 5px;
+    align-items: center;
+    width:40em;
+    padding: 10px;
+    color:#253B33;
+    font-size: medium;
+    margin-top: 2em;
+    background-color:#253B33;
+    color: #ffffff;
+    margin-bottom: 2em;
+}
